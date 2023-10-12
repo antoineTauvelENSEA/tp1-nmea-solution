@@ -1,0 +1,6 @@
+../Core/Src/utils.c:12:5:fillBuffer	32	static
+../Core/Src/utils.c:38:5:extractChecksum	16	static
+../Core/Src/utils.c:45:5:calculateChecksum	24	static
+../Core/Src/utils.c:55:7:getLattitude	56	static
+../Core/Src/utils.c:72:7:getLongitude	56	static
+../Core/Src/utils.c:90:5:isGPGGA	24	static

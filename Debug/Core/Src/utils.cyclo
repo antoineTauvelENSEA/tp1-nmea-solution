@@ -1,0 +1,6 @@
+utils.c:12:5:fillBuffer	4
+utils.c:38:5:extractChecksum	2
+utils.c:45:5:calculateChecksum	2
+utils.c:55:7:getLattitude	4
+utils.c:72:7:getLongitude	4
+utils.c:90:5:isGPGGA	3
